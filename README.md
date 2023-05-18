@@ -1,4 +1,12 @@
 ### Hi there 👋
+# I am Ilyushin Nikita, a C# Developer.
+А little bit about my skills:
+- C#
+- .NET Framework
+- ASP.NET core
+- MathNet Framework
+- Graph theory
+- and much more
 
 <!--
 **SlepoyShaman/SlepoyShaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
