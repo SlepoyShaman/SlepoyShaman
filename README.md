@@ -4,7 +4,6 @@
 - C#
 - .NET Framework
 - ASP.NET core
-- MathNet Framework
 - Graph theory
 - and much more
 
